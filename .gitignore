@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+jocuri.json
+jocuri_backup.json
